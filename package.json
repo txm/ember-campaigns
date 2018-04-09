@@ -16,6 +16,9 @@
     "start": "ember serve",
     "test": "ember test"
   },
+  "dependencies": {
+    "ember-campaign-polymer": "git+ssh://git@github.com/txm/ember-campaign-polymer.git"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
     "ember-ajax": "^3.0.0",
